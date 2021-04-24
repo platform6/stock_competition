@@ -5,5 +5,6 @@
 # [GOOGLE finance docs](https://support.google.com/docs/answer/3093281?hl=en)
 # <br />
 # [Google Data APIs Frequently Asked Questions](https://developers.google.com/sites/faq_gdata)
-# [Python googlefinance wrapper]{https://pypi.org/project/googlefinance/0.4/}
+# <br />
+# [Python googlefinance wrapper](https://pypi.org/project/googlefinance/0.4/)
 
